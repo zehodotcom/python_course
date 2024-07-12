@@ -1,14 +1,4 @@
-animals = [
-    "dog",
-    "cat",
-    "bird",
-    "elephant",
-    "tiger",
-    "snail",
-    "horse",
-    "shark",
-    "eagle",
-]
+animals = ["dog", "cat", "bird", "dog", "horse", "penguin"]
 
 # Iterate over the list and print each animal name
 for animal in animals:
